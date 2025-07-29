@@ -1,0 +1,15 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore temp files
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
